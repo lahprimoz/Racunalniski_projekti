@@ -23,3 +23,7 @@ Repozitorij za objavljanje raznih krajših projektov, ustvarjenih pri računalni
 * Domača naloga pri predmetu _Računalniške komunikacije_ v 3. letniku
 * Shema fizične topologije domačega omrežja
 * Pripravljeno z uporabo programa [SmartDraw](https://www.smartdraw.com)
+
+### 6. Infografika pravil v računalniški učilnici
+* Domača naloga pri predmetu _Didaktika računalništva s prakso_ v 3. letniku
+* Inforgrafika s pravili v računalniški učilnici
