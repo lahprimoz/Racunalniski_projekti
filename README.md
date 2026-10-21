@@ -11,11 +11,15 @@ Repozitorij za objavljanje raznih krajših projektov, ustvarjenih pri računalni
 * Naloge s karo papirjem, pripravljene pri predmetu IKT za poučevanje računalništva v 2. letniku
 * Naloge s karo papirjem za razvijanje algoritmičnega mišljenja brez uporabe računalnika
 
-### 3. Magnetni disk in SSD
+### 3. Povej z robotkom (RAP)
+* Zasnova dejavnosti za RAP računalništvo pri predmetu IKT za poučevanje računalništva v 2. letniku
+* Zasnova dejavnosti Povej z robotkom za izvedbo v programu RAP
+
+### 4. Magnetni disk in SSD
 * Predstavitev pri predmetu Arhitekture računalniških sistemov v 2. letniku
 * Predstavitev delovanja magnetnega diska in SSD shrambe in primerjava med njima
 
-### 4. Fizična topologija omrežja
+### 5. Fizična topologija omrežja
 * Domača naloga pri predmetu _Računalniške komunikacije_ v 3. letniku
 * Shema fizične topologije domačega omrežja
 * Pripravljeno z uporabo programa [SmartDraw](https://www.smartdraw.com)
