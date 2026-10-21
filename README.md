@@ -7,7 +7,11 @@ Repozitorij za objavljanje raznih krajših projektov, ustvarjenih pri računalni
 * Krajša predstavitev pri predmetu _IKT za poučevanje računalništva_ v 2. letniku
 * Pregled in predstavitev kurikuluma za računalniške predmete v Združenem kraljestvu
 
-### 2. Fizična topologija omrežja
+### 2. Magnetni disk in SSD
+* Predstavitev pri predmetu Arhitekture računalniških sistemov
+* Predstavitev delovanja magnetnega diska in SSD shrambe in primerjava med njima
+
+### 3. Fizična topologija omrežja
 * Domača naloga pri predmetu _Računalniške komunikacije_ v 3. letniku
 * Shema fizične topologije domačega omrežja
 * Pripravljeno z uporabo programa [SmartDraw](https://www.smartdraw.com)
